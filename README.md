@@ -12,3 +12,6 @@ Create User, Role, and Patient entities to represent the database structure.
 
 #### Use Case 3: Create Repository Layer
 Create UserRepository and PatientRepository to perform database operations using Spring Data JPA.
+
+#### Use Case 4: Create DTO Classes
+Create AuthRequest, AuthResponse, and PatientDto to transfer request and response data.

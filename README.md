@@ -9,3 +9,6 @@ Set up the Spring Boot project with the required dependencies and configure MySQ
 
 #### Use Case 2: Create Entity Classes
 Create User, Role, and Patient entities to represent the database structure.
+
+#### Use Case 3: Create Repository Layer
+Create UserRepository and PatientRepository to perform database operations using Spring Data JPA.

@@ -15,3 +15,6 @@ Create UserRepository and PatientRepository to perform database operations using
 
 #### Use Case 4: Create DTO Classes
 Create AuthRequest, AuthResponse, and PatientDto to transfer request and response data.
+
+#### Use Case 5: Create Service Layer
+Implement AuthService and PatientService to handle user registration, password encoding, authentication, JWT generation, and patient CRUD business logic.

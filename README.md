@@ -21,3 +21,6 @@ Implement AuthService and PatientService to handle user registration, password e
 
 #### Use Case 6: Create JWT Classes
 Implement JwtService, JwtAuthenticationFilter, and SecurityConfig to handle JWT token generation, validation, expiration, and secure API access using Spring Security.
+
+#### Use Case 7: Create Controller Layer
+Implement AuthController and PatientController to expose REST APIs for user registration, login, and patient CRUD operations by connecting incoming HTTP requests to the respective service-layer methods.

@@ -18,3 +18,6 @@ Create AuthRequest, AuthResponse, and PatientDto to transfer request and respons
 
 #### Use Case 5: Create Service Layer
 Implement AuthService and PatientService to handle user registration, password encoding, authentication, JWT generation, and patient CRUD business logic.
+
+#### Use Case 6: Create JWT Classes
+Implement JwtService, JwtAuthenticationFilter, and SecurityConfig to handle JWT token generation, validation, expiration, and secure API access using Spring Security.
